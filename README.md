@@ -1,6 +1,6 @@
 # CHA Dynamics Elite Dangerous
 
-Два проекта RacerCHA для пилотов Elite Dangerous. Один выводит показания корабля на Stream Deck, второй помогает пользоваться Neutron Dancer на русском языке.
+Три проекта RacerCHA для пилотов Elite Dangerous. MFD выводит показания корабля на Stream Deck, перевод помогает пользоваться Neutron Dancer на русском языке, а Moza Fly Telemetry Bridge передаёт движение корабля на ручку MOZA AB9.
 
 ## CHA Dynamics MFD для Stream Deck
 
@@ -25,3 +25,15 @@
 Скачайте комплект перевода. Для установки понадобятся официальный ZIP-архив Neutron Dancer 2.1.2 и Python 3.8 или новее.
 
 **[Скачать](https://github.com/RacerCHA/cha-dynamics-elite-neutron-dancer-ru/releases/latest)**　·　[Инструкция](https://github.com/RacerCHA/cha-dynamics-elite-neutron-dancer-ru#readme)
+
+## Moza Fly Telemetry Bridge
+
+<img src="https://raw.githubusercontent.com/RacerCHA/Moza-Fly-Telemetry-Bridge/main/docs/bridge.png" width="64" height="64" alt="Зелёная молния Moza Fly Telemetry Bridge">
+
+**Windows x64 · MOZA Cockpit · База AB9**
+
+Мост передаёт телеметрию Elite Dangerous в MOZA Cockpit. На ручке чувствуются разгон, работа двигателей, выпуск шасси и вход в FSD. В суперкруизе сопротивление постепенно ослабевает при длительном полёте.
+
+В архиве есть готовое приложение и личный пресет RacerCHA, проверенный в полёте на AB9. Он подходит как отправная точка для настройки своей ручки.
+
+**[Скачать](https://github.com/RacerCHA/Moza-Fly-Telemetry-Bridge/releases/latest)**　·　[Инструкция](https://github.com/RacerCHA/Moza-Fly-Telemetry-Bridge/blob/main/README-RU.md)　·　[Матрица 139 регуляторов](https://github.com/RacerCHA/Moza-Fly-Telemetry-Bridge/blob/main/docs/SETTINGS-RU.md)
